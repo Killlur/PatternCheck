@@ -14,8 +14,8 @@ def PatternInRange(number,o=10):
             print(outputlist)
 
 
-a = input('How many times do you want to run this - ')
-o = input('How many numbers in each list(optional)- ')
+a = input('How many times do you want to run this -- ')
+o = input('How many numbers in each list(optional) -- ')
 PatternInRange(int(a), int(o))
 
 
